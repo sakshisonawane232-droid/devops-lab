@@ -1,10 +1,9 @@
-# \# DevOps Lab - Main Version
+# DevOps Lab
 
-# 
+## Login Feature
 
-# \## Login Feature
+This branch contains the login form implementation.
 
-# 
+## Merge Conflict Resolution
 
-# This branch contains the login form implementation.
-
+Conflict resolved successfully.
