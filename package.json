@@ -1,0 +1,21 @@
+{
+  "name": "devops-lab",
+  "version": "1.0.0",
+  "description": "This branch contains the login form implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshisonawane232-droid/devops-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sakshisonawane232-droid/devops-lab/issues"
+  },
+  "homepage": "https://github.com/sakshisonawane232-droid/devops-lab#readme"
+}
