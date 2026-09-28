@@ -10,19 +10,19 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh 'npm ci'
+                bat 'npm ci'
             }
         }
 
         stage('Test') {
             steps {
-                sh 'npm test'
+                bat 'npm test'
             }
         }
 
         stage('Package') {
             steps {
-                sh 'npm run build --if-present'
+                bat 'npm run build --if-present'
             }
         }
     }
